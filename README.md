@@ -1,3 +1,5 @@
+/* 06/08/23 Added suggested updates for IDs 632, 856, 2029 and 12737 */
+
 # UPLAY_GAME_ID
 List of GAME ID's in Uplay by Ubisoft
 
@@ -103,6 +105,7 @@ List of GAME ID's in Uplay by Ubisoft
 5271 - Tom Clancy's Rainbow Six® Extraction  
 10424 - Tom Clancy's Rainbow Six® Siege Test Server (Steam)  
 11903 - Tom Clancy's Ghost Recon® Breakpoint  
+12737 - Tom Clancy's Ghost Recon® Breakpoint (Uplay Open + Closed Beta)
 
 # Prince of Persia Franchise
 11 - Prince of Persia® The Forgotten Sands™  
@@ -256,9 +259,9 @@ List of GAME ID's in Uplay by Ubisoft
 
 # To be verified
 276 - Prince of Persia  
-632 - Assassin's Creed® Liberation HD (RU) ?  
-856 - Far Cry® 4 (unknown Version)  
-2029 - Far Cry® Primal (RU) ?  
+632 - Assassin's Creed® Liberation HD (RU) ?  <-- This ID for Uplay version/Australia (ANZ?)  
+856 - Far Cry® 4 (unknown Version)  <-- This ID for Steam version/Australia (ANZ?)  
+2029 - Far Cry® Primal (RU) ?  <-- This ID for Steam version/Australia (ANZ?)  
 2052 - Anno 2205 (unknown Version)  
 
 More: https://github.com/d3adm4u5/UplayGameIDs/blob/master/latest.txt
